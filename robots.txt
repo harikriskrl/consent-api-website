@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://consent-api-website.onrender.com/sitemap.xml
