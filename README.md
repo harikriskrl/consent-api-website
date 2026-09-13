@@ -57,6 +57,27 @@ https://consent-api-website.onrender.com
 https://documenter.getpostman.com/view/50524135/2sBYAysovB
 The Postman documentation includes a complete consent lifecycle Quickstart and a Run in Postman option.
 
+## Try the API in Postman
+
+The Consent API includes a ready-to-run Postman collection for testing the complete consent lifecycle.
+
+**Postman Collection:**  
+https://www.postman.com/harikriskrl-1393118/consent-api-consent-lifecycle-management/collection/thvutrs/consent-api-consent-lifecycle-management
+
+The collection includes:
+
+- Health Check
+- Create a consent
+- Retrieve a consent
+- Check consent status
+- Revoke consent
+- Verify the updated status
+
+Open the collection in Postman, fork it into your workspace, add your API key to the `apiKey` collection variable, and run the Quickstart requests in order.
+
+**Complete Postman Documentation:**  
+https://documenter.getpostman.com/view/50524135/2sBYAysovB
+
 **Authentication**
 Authenticated endpoints use an API key supplied through:
 X-API-Key: YOUR_API_KEY
